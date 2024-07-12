@@ -1,4 +1,4 @@
-# Title of the Project : Interacting with PDF Documents Using Google Generative AI and Streamlit
+# Title: Interacting with PDF Documents Using Google Generative AI and Streamlit
 
 ## Introduction
 
